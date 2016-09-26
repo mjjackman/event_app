@@ -1,0 +1,131 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.newevent.MainActivity">
+
+    <item
+        android:id="@+id/action_event1"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_event2"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event3"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event4"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event5"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event6"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event7"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event8"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event9"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event10"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event11"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event12"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event13"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event14"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event15"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event16"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event17"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_event18"
+        android:orderInCategory="100"
+        android:title=""
+        android:visible="false"
+        app:showAsAction="never"/>
+</menu>
